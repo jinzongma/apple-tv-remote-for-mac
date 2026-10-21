@@ -16,7 +16,7 @@ Microphone Edition (paid) lets you use the built-in microphone on a supported Ap
 
 ## Installation
 
-1. Download `VOXA-2.0.0-Build92.dmg` from [Releases](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest).
+1. Download `VOXA-2.0.1-Build93.dmg` from [Releases](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest).
 2. Double-click the DMG to open it.
 3. Drag `Voxa.app` into the Applications folder shown on the right.
 4. Open Applications in Finder and double-click `Voxa.app`.
@@ -48,9 +48,9 @@ In macOS System Settings → Bluetooth, confirm that the remote is paired and sh
 
 ## Version Information
 
-- Current version: **VOXA 2.0.0 (Build 92)**
+- Current version: **VOXA 2.0.1 (Build 93)**
 - Installer: Developer ID signed and notarized by Apple
-- SHA-256: `802e6bfaf06ddf395945de794ac96bb39fa850e8e9b628e127d56d4f69c1a1a7`
+- SHA-256: `aea8c6a39604fefa6bf5e55bd54bdcdc1d5da42ebab21ac33914da1e98e74240`
 
 ## Contact
 

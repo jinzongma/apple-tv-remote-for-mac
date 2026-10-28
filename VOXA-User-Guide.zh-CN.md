@@ -16,7 +16,7 @@ VOXA 可以把 Apple TV Siri Remote 用作 Mac 的遥控输入设备，支持按
 
 ## 安装
 
-1. 从 [Releases](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest) 下载 `VOXA-2.1.0-Build95.dmg`。
+1. 从 [Releases](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest) 下载 `VOXA-2.2.0-Build96.dmg`。
 2. 双击打开 DMG。
 3. 将 `Voxa.app` 拖入右侧的“应用程序”文件夹。
 4. 在 Finder 中打开“应用程序”，然后双击 `Voxa.app`。
@@ -46,11 +46,19 @@ VOXA 可以把 Apple TV Siri Remote 用作 Mac 的遥控输入设备，支持按
 
 先在 macOS“系统设置 → 蓝牙”中确认遥控器已经完成配对并显示为已连接，再回到 VOXA 重新连接。
 
+### 换到新电脑（Voice Pro）
+
+1. 新 Mac 登录同一个 Apple ID，并在“系统设置”中打开 iCloud 钥匙串。
+2. 在新 Mac 上安装 VOXA，打开 Voice Pro，点“在这台 Mac 上激活”。
+3. 点“移到这台 Mac”，旧 Mac 的语音会自动停用。30 天内最多换 2 次。
+
+没有 iCloud 钥匙串时，请发邮件联系我们处理。
+
 ## 版本信息
 
-- 当前版本：**VOXA 2.1.0（Build 95）**
+- 当前版本：**VOXA 2.2.0（Build 96）**
 - 安装包：Developer ID 签名并通过 Apple 公证
-- SHA-256：`0116550af4bbfaa87836eae66e88ab40b59b25821c5a5b784be64ca6b3d67c69`
+- SHA-256：`7c6ebc33c038f14ec22d72420ff72681ae71db3b957ab44f5df5ac9eb9b150fb`
 
 ## 联系方式
 

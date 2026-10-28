@@ -16,7 +16,7 @@ Microphone Edition (paid) lets you use the built-in microphone on a supported Ap
 
 ## Installation
 
-1. Download `VOXA-2.1.0-Build95.dmg` from [Releases](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest).
+1. Download `VOXA-2.2.0-Build96.dmg` from [Releases](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest).
 2. Double-click the DMG to open it.
 3. Drag `Voxa.app` into the Applications folder shown on the right.
 4. Open Applications in Finder and double-click `Voxa.app`.
@@ -46,11 +46,19 @@ Check that Accessibility and Input Monitoring permissions are enabled, then quit
 
 In macOS System Settings → Bluetooth, confirm that the remote is paired and shown as connected, then return to VOXA and reconnect.
 
+### Moving to a new Mac (Voice Pro)
+
+1. On the new Mac, sign in with the same Apple ID and turn on iCloud Keychain in System Settings.
+2. Install VOXA on the new Mac, open Voice Pro, and click “Activate on This Mac”.
+3. Click “Move to This Mac”. Voice turns off on the old Mac. Up to 2 moves per 30 days.
+
+No iCloud Keychain? Email us and we'll move it for you.
+
 ## Version Information
 
-- Current version: **VOXA 2.1.0 (Build 95)**
+- Current version: **VOXA 2.2.0 (Build 96)**
 - Installer: Developer ID signed and notarized by Apple
-- SHA-256: `0116550af4bbfaa87836eae66e88ab40b59b25821c5a5b784be64ca6b3d67c69`
+- SHA-256: `7c6ebc33c038f14ec22d72420ff72681ae71db3b957ab44f5df5ac9eb9b150fb`
 
 ## Contact
 

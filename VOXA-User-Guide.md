@@ -16,7 +16,7 @@ Microphone Edition (paid) lets you use the built-in microphone on a supported Ap
 
 ## Installation
 
-1. Download `VOXA-2.2.0-Build96.dmg` from [Releases](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest).
+1. Download `VOXA-2.2.1-Build97.dmg` from [Releases](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest).
 2. Double-click the DMG to open it.
 3. Drag `Voxa.app` into the Applications folder shown on the right.
 4. Open Applications in Finder and double-click `Voxa.app`.
@@ -35,6 +35,15 @@ Microphone Edition (paid) lets you use the built-in microphone on a supported Ap
 2. Open the new DMG.
 3. Drag the new `Voxa.app` into Applications and choose Replace.
 4. Reopen VOXA. Existing button mappings and settings are normally preserved.
+
+## Ask an AI Assistant
+
+Not sure how to set something up (for example, using Doubao or Typeless dictation with the Siri button)? An AI assistant can walk you through it:
+
+1. In VOXA, open Device Settings and click Copy Guide in Ask an AI Assistant at the top, or copy all of [VOXA-AI-Guide.md](./VOXA-AI-Guide.md).
+2. Paste it into ChatGPT, Claude, Doubao or another assistant, then ask your question, such as "I use Typeless; how should I set up the Siri button?"
+
+It can also write a scene preset file for you; import it in VOXA under Scenes → Import Preset.
 
 ## Troubleshooting
 
@@ -56,9 +65,9 @@ No iCloud Keychain? Email us and we'll move it for you.
 
 ## Version Information
 
-- Current version: **VOXA 2.2.0 (Build 96)**
+- Current version: **VOXA 2.2.1 (Build 97)**
 - Installer: Developer ID signed and notarized by Apple
-- SHA-256: `52533310e8a7686574e51e91b399e29ed93efdf9adae1dea783b7208e6a2e48f`
+- SHA-256: `a3ed1935dbfdb31eabf4eef569cc44198c2a08adb3d067df4276bfbc1be280bb`
 
 ## Contact
 

@@ -58,7 +58,7 @@ No iCloud Keychain? Email us and we'll move it for you.
 
 - Current version: **VOXA 2.2.0 (Build 96)**
 - Installer: Developer ID signed and notarized by Apple
-- SHA-256: `7c6ebc33c038f14ec22d72420ff72681ae71db3b957ab44f5df5ac9eb9b150fb`
+- SHA-256: `52533310e8a7686574e51e91b399e29ed93efdf9adae1dea783b7208e6a2e48f`
 
 ## Contact
 
